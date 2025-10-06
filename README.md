@@ -12,7 +12,7 @@ Below one can find the first exercises for the Digital Signal Processing part of
 
 1. Plot an FFT of the original and the decimated sound. Does this confirm what you previously noticed?
 
-1. Challenge: When the $x[n]$ is a pure sine wave, there is the possibility where $frac{1}{2} f_s = f_{Nyquist}$ is not enough to recreate the frequency of the input sine wave. Can you find this?
+1. Challenge: When the $x[n]$ is a pure sine wave, there is the possibility where $\frac{1}{2} f_s = f_{Nyquist}$ is not enough to recreate the frequency of the input sine wave. Can you find this?
 
 1. Alternative challenge: Plot a spectrogram of sound data of your liking using https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.spectrogram.html
     - Super challenge: Can you try out different windows and analyze the difference? What could be the cause of the difference?
