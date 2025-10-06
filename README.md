@@ -8,7 +8,7 @@ Below one can find the first exercises for the Digital Signal Processing part of
 
 1. Create timeseries data, then using FFT, create a spectrum plot (= frequency domain graph) in which aliasing is present.
 
-1. Download and load the following:  https://bigsoundbank.com/UPLOAD/wav/1064.wav, in Python. Now decimate the signal by a power of 3 (= keep every third datapoint). Play the original sound, then play the decimated sound. What has happened?
+1. Download and load the following:  https://bigsoundbank.com/UPLOAD/mp3/1064.mp3, in Python. Now decimate the signal by a power of 3 (= keep every third datapoint). Play the original sound, then play the decimated sound. What has happened?
 
 1. Plot an FFT of the original and the decimated sound. Does this confirm what you previously noticed?
 
